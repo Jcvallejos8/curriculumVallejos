@@ -1,0 +1,31 @@
+.nav-en{
+    display: inline-block;
+    background: #3A5BA0 ;
+    color: white;
+    padding: 10px 30px;
+    margin: 10px 10px 10px 10px;
+}
+.curvi{
+    display: inline-block;
+    background:#1F4690 ;
+    color: white;
+    padding: 10px 30px;
+    margin: 10px;
+}
+.nav-en:hover{
+    background: #92B4EC;
+}
+nav{
+    background: #FFE5B4;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 10px 10px 10px;
+}
+.InfPer{
+    display: inline-block;
+    background:#1F4690 ;
+    color: white;
+    padding: 10px 30px;
+    margin: 10px;
+}
